@@ -1,0 +1,14 @@
+name: JSON Lint
+on: [push, pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        run: |
+          echo "Vérification des fichiers JSON..."
+          find . -name "*.json" -type f -print0 | xargs -0 -I{} jq empty {}
+          echo "Tous les fichiers JSON sont valides !"
