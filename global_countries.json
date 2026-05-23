@@ -1,0 +1,3118 @@
+{
+    "// === AFRICA ===": "------------------------------------------------",
+    "AO": {
+        "id": "AO",
+        "iso_3": "AGO",
+        "prefix": "+244",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -11.2027,
+            "longitude": 17.8739
+        }
+    },
+    "BF": {
+        "id": "BF",
+        "iso_3": "BFA",
+        "prefix": "+226",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 12.2383,
+            "longitude": -1.5616
+        }
+    },
+    "BI": {
+        "id": "BI",
+        "iso_3": "BDI",
+        "prefix": "+257",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -3.3731,
+            "longitude": 29.9189
+        }
+    },
+    "BJ": {
+        "id": "BJ",
+        "iso_3": "BEN",
+        "prefix": "+229",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 9.3077,
+            "longitude": 2.3158
+        }
+    },
+    "BW": {
+        "id": "BW",
+        "iso_3": "BWA",
+        "prefix": "+267",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -22.3285,
+            "longitude": 24.6849
+        }
+    },
+    "CD": {
+        "id": "CD",
+        "iso_3": "COD",
+        "prefix": "+243",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -4.0383,
+            "longitude": 21.7587
+        }
+    },
+    "CF": {
+        "id": "CF",
+        "iso_3": "CAF",
+        "prefix": "+236",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 6.6111,
+            "longitude": 20.9394
+        }
+    },
+    "CG": {
+        "id": "CG",
+        "iso_3": "COG",
+        "prefix": "+242",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -0.228,
+            "longitude": 15.8277
+        }
+    },
+    "CI": {
+        "id": "CI",
+        "iso_3": "CIV",
+        "prefix": "+225",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 7.54,
+            "longitude": -5.5471
+        }
+    },
+    "CM": {
+        "id": "CM",
+        "iso_3": "CMR",
+        "prefix": "+237",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 7.3697,
+            "longitude": 12.3547
+        }
+    },
+    "CV": {
+        "id": "CV",
+        "iso_3": "CPV",
+        "prefix": "+238",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 16.0021,
+            "longitude": -24.0132
+        }
+    },
+    "DJ": {
+        "id": "DJ",
+        "iso_3": "DJI",
+        "prefix": "+253",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 11.8251,
+            "longitude": 42.5903
+        }
+    },
+    "DZ": {
+        "id": "DZ",
+        "iso_3": "DZA",
+        "prefix": "+213",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 28.0339,
+            "longitude": 1.6596
+        }
+    },
+    "EG": {
+        "id": "EG",
+        "iso_3": "EGY",
+        "prefix": "+20",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 26.8206,
+            "longitude": 30.8025
+        }
+    },
+    "ER": {
+        "id": "ER",
+        "iso_3": "ERI",
+        "prefix": "+291",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 15.1794,
+            "longitude": 39.7823
+        }
+    },
+    "ET": {
+        "id": "ET",
+        "iso_3": "ETH",
+        "prefix": "+251",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 9.145,
+            "longitude": 40.4897
+        }
+    },
+    "GA": {
+        "id": "GA",
+        "iso_3": "GAB",
+        "prefix": "+241",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -0.8037,
+            "longitude": 11.6094
+        }
+    },
+    "GH": {
+        "id": "GH",
+        "iso_3": "GHA",
+        "prefix": "+233",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 7.9465,
+            "longitude": -1.0232
+        }
+    },
+    "GM": {
+        "id": "GM",
+        "iso_3": "GMB",
+        "prefix": "+220",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 13.4432,
+            "longitude": -15.3101
+        }
+    },
+    "GN": {
+        "id": "GN",
+        "iso_3": "GIN",
+        "prefix": "+224",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 9.9456,
+            "longitude": -9.6966
+        }
+    },
+    "GQ": {
+        "id": "GQ",
+        "iso_3": "GNQ",
+        "prefix": "+240",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 1.6508,
+            "longitude": 10.2679
+        }
+    },
+    "GW": {
+        "id": "GW",
+        "iso_3": "GNB",
+        "prefix": "+245",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 11.8037,
+            "longitude": -15.1804
+        }
+    },
+    "KE": {
+        "id": "KE",
+        "iso_3": "KEN",
+        "prefix": "+254",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -0.0236,
+            "longitude": 37.9062
+        }
+    },
+    "KM": {
+        "id": "KM",
+        "iso_3": "COM",
+        "prefix": "+269",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -11.875,
+            "longitude": 43.8722
+        }
+    },
+    "LR": {
+        "id": "LR",
+        "iso_3": "LBR",
+        "prefix": "+231",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 6.4281,
+            "longitude": -9.4295
+        }
+    },
+    "LS": {
+        "id": "LS",
+        "iso_3": "LSO",
+        "prefix": "+266",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -29.61,
+            "longitude": 28.2336
+        }
+    },
+    "LY": {
+        "id": "LY",
+        "iso_3": "LBY",
+        "prefix": "+218",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 26.3351,
+            "longitude": 17.2283
+        }
+    },
+    "MA": {
+        "id": "MA",
+        "iso_3": "MAR",
+        "prefix": "+212",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 31.7917,
+            "longitude": -7.0926
+        }
+    },
+    "MG": {
+        "id": "MG",
+        "iso_3": "MDG",
+        "prefix": "+261",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -18.7669,
+            "longitude": 46.8691
+        }
+    },
+    "ML": {
+        "id": "ML",
+        "iso_3": "MLI",
+        "prefix": "+223",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 17.5707,
+            "longitude": -3.9962
+        }
+    },
+    "MR": {
+        "id": "MR",
+        "iso_3": "MRT",
+        "prefix": "+222",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 21.0079,
+            "longitude": -10.9408
+        }
+    },
+    "MU": {
+        "id": "MU",
+        "iso_3": "MUS",
+        "prefix": "+230",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -20.3484,
+            "longitude": 57.5522
+        }
+    },
+    "MW": {
+        "id": "MW",
+        "iso_3": "MWI",
+        "prefix": "+265",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -13.2543,
+            "longitude": 34.3015
+        }
+    },
+    "MZ": {
+        "id": "MZ",
+        "iso_3": "MOZ",
+        "prefix": "+258",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -18.6657,
+            "longitude": 35.5296
+        }
+    },
+    "NA": {
+        "id": "NA",
+        "iso_3": "NAM",
+        "prefix": "+264",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -22.9576,
+            "longitude": 18.4904
+        }
+    },
+    "NE": {
+        "id": "NE",
+        "iso_3": "NER",
+        "prefix": "+227",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 17.6078,
+            "longitude": 8.0817
+        }
+    },
+    "NG": {
+        "id": "NG",
+        "iso_3": "NGA",
+        "prefix": "+234",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 9.082,
+            "longitude": 8.6753
+        }
+    },
+    "RW": {
+        "id": "RW",
+        "iso_3": "RWA",
+        "prefix": "+250",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -1.9403,
+            "longitude": 29.8739
+        }
+    },
+    "SC": {
+        "id": "SC",
+        "iso_3": "SYC",
+        "prefix": "+248",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -4.6796,
+            "longitude": 55.492
+        }
+    },
+    "SD": {
+        "id": "SD",
+        "iso_3": "SDN",
+        "prefix": "+249",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 12.8628,
+            "longitude": 30.2176
+        }
+    },
+    "SL": {
+        "id": "SL",
+        "iso_3": "SLE",
+        "prefix": "+232",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 8.4606,
+            "longitude": -11.7799
+        }
+    },
+    "SN": {
+        "id": "SN",
+        "iso_3": "SEN",
+        "prefix": "+221",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 14.4974,
+            "longitude": -14.4524
+        }
+    },
+    "SO": {
+        "id": "SO",
+        "iso_3": "SOM",
+        "prefix": "+252",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 5.1521,
+            "longitude": 46.1996
+        }
+    },
+    "SS": {
+        "id": "SS",
+        "iso_3": "SSD",
+        "prefix": "+211",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 6.877,
+            "longitude": 31.307
+        }
+    },
+    "ST": {
+        "id": "ST",
+        "iso_3": "STP",
+        "prefix": "+239",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 0.1864,
+            "longitude": 6.6131
+        }
+    },
+    "SZ": {
+        "id": "SZ",
+        "iso_3": "SWZ",
+        "prefix": "+268",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -26.5225,
+            "longitude": 31.4659
+        }
+    },
+    "TD": {
+        "id": "TD",
+        "iso_3": "TCD",
+        "prefix": "+235",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 15.4542,
+            "longitude": 18.7322
+        }
+    },
+    "TG": {
+        "id": "TG",
+        "iso_3": "TGO",
+        "prefix": "+228",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 8.6195,
+            "longitude": 0.8248
+        }
+    },
+    "TN": {
+        "id": "TN",
+        "iso_3": "TUN",
+        "prefix": "+216",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 33.8869,
+            "longitude": 9.5375
+        }
+    },
+    "TZ": {
+        "id": "TZ",
+        "iso_3": "TZA",
+        "prefix": "+255",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -6.369,
+            "longitude": 34.8888
+        }
+    },
+    "UG": {
+        "id": "UG",
+        "iso_3": "UGA",
+        "prefix": "+256",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 1.3733,
+            "longitude": 32.2903
+        }
+    },
+    "ZA": {
+        "id": "ZA",
+        "iso_3": "ZAF",
+        "prefix": "+27",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -30.5595,
+            "longitude": 22.9375
+        }
+    },
+    "ZM": {
+        "id": "ZM",
+        "iso_3": "ZMB",
+        "prefix": "+260",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -13.1339,
+            "longitude": 27.8493
+        }
+    },
+    "ZW": {
+        "id": "ZW",
+        "iso_3": "ZWE",
+        "prefix": "+263",
+        "continent": "africa",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -19.0154,
+            "longitude": 29.1549
+        }
+    },
+    "// === AMERICAS ===": "------------------------------------------------",
+    "AG": {
+        "id": "AG",
+        "iso_3": "ATG",
+        "prefix": "+1-268",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 17.0608,
+            "longitude": -61.7964
+        }
+    },
+    "AR": {
+        "id": "AR",
+        "iso_3": "ARG",
+        "prefix": "+54",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -38.4161,
+            "longitude": -63.6167
+        }
+    },
+    "BS": {
+        "id": "BS",
+        "iso_3": "BHS",
+        "prefix": "+1-242",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 25.0343,
+            "longitude": -77.3963
+        }
+    },
+    "BB": {
+        "id": "BB",
+        "iso_3": "BRB",
+        "prefix": "+1-246",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 13.1939,
+            "longitude": -59.5432
+        }
+    },
+    "BZ": {
+        "id": "BZ",
+        "iso_3": "BLZ",
+        "prefix": "+501",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 17.1899,
+            "longitude": -88.4976
+        }
+    },
+    "BO": {
+        "id": "BO",
+        "iso_3": "BOL",
+        "prefix": "+591",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -16.2902,
+            "longitude": -63.5887
+        }
+    },
+    "BR": {
+        "id": "BR",
+        "iso_3": "BRA",
+        "prefix": "+55",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -14.235,
+            "longitude": -51.9253
+        }
+    },
+    "CA": {
+        "id": "CA",
+        "iso_3": "CAN",
+        "prefix": "+1",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "dispatch": [],
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 56.1304,
+            "longitude": -106.3468
+        }
+    },
+    "CL": {
+        "id": "CL",
+        "iso_3": "CHL",
+        "prefix": "+56",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -35.6751,
+            "longitude": -71.543
+        }
+    },
+    "CO": {
+        "id": "CO",
+        "iso_3": "COL",
+        "prefix": "+57",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 4.5709,
+            "longitude": -74.2973
+        }
+    },
+    "CR": {
+        "id": "CR",
+        "iso_3": "CRI",
+        "prefix": "+506",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 9.7489,
+            "longitude": -83.7534
+        }
+    },
+    "CU": {
+        "id": "CU",
+        "iso_3": "CUB",
+        "prefix": "+53",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 21.5218,
+            "longitude": -77.7812
+        }
+    },
+    "DM": {
+        "id": "DM",
+        "iso_3": "DMA",
+        "prefix": "+1-767",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 15.4149,
+            "longitude": -61.3705
+        }
+    },
+    "DO": {
+        "id": "DO",
+        "iso_3": "DOM",
+        "prefix": "+1-809",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 18.7357,
+            "longitude": -70.1627
+        }
+    },
+    "EC": {
+        "id": "EC",
+        "iso_3": "ECU",
+        "prefix": "+593",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -1.8312,
+            "longitude": -78.1834
+        }
+    },
+    "SV": {
+        "id": "SV",
+        "iso_3": "SLV",
+        "prefix": "+503",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 13.7942,
+            "longitude": -88.8965
+        }
+    },
+    "GD": {
+        "id": "GD",
+        "iso_3": "GRD",
+        "prefix": "+1-473",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 12.1165,
+            "longitude": -61.679
+        }
+    },
+    "GT": {
+        "id": "GT",
+        "iso_3": "GTM",
+        "prefix": "+502",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 15.7835,
+            "longitude": -90.2308
+        }
+    },
+    "GY": {
+        "id": "GY",
+        "iso_3": "GUY",
+        "prefix": "+592",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 4.8604,
+            "longitude": -58.9302
+        }
+    },
+    "HT": {
+        "id": "HT",
+        "iso_3": "HTI",
+        "prefix": "+509",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 18.9712,
+            "longitude": -72.2852
+        }
+    },
+    "HN": {
+        "id": "HN",
+        "iso_3": "HND",
+        "prefix": "+504",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 15.2,
+            "longitude": -86.2419
+        }
+    },
+    "JM": {
+        "id": "JM",
+        "iso_3": "JAM",
+        "prefix": "+1-876",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 18.1096,
+            "longitude": -77.2975
+        }
+    },
+    "MX": {
+        "id": "MX",
+        "iso_3": "MEX",
+        "prefix": "+52",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 23.6345,
+            "longitude": -102.5528
+        }
+    },
+    "NI": {
+        "id": "NI",
+        "iso_3": "NIC",
+        "prefix": "+505",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 12.8654,
+            "longitude": -85.2072
+        }
+    },
+    "PA": {
+        "id": "PA",
+        "iso_3": "PAN",
+        "prefix": "+507",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 8.538,
+            "longitude": -80.7821
+        }
+    },
+    "PY": {
+        "id": "PY",
+        "iso_3": "PRY",
+        "prefix": "+595",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -23.4425,
+            "longitude": -58.4438
+        }
+    },
+    "PE": {
+        "id": "PE",
+        "iso_3": "PER",
+        "prefix": "+51",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -9.19,
+            "longitude": -75.0152
+        }
+    },
+    "KN": {
+        "id": "KN",
+        "iso_3": "KNA",
+        "prefix": "+1-869",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 17.3578,
+            "longitude": -62.783
+        }
+    },
+    "LC": {
+        "id": "LC",
+        "iso_3": "LCA",
+        "prefix": "+1-758",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 13.9094,
+            "longitude": -60.9789
+        }
+    },
+    "VC": {
+        "id": "VC",
+        "iso_3": "VCT",
+        "prefix": "+1-784",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 12.9843,
+            "longitude": -61.2872
+        }
+    },
+    "SR": {
+        "id": "SR",
+        "iso_3": "SUR",
+        "prefix": "+597",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 3.9193,
+            "longitude": -56.0278
+        }
+    },
+    "TT": {
+        "id": "TT",
+        "iso_3": "TTO",
+        "prefix": "+1-868",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 10.6918,
+            "longitude": -61.2225
+        }
+    },
+    "US": {
+        "id": "US",
+        "iso_3": "USA",
+        "prefix": "+1",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "dispatch": [],
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 37.0902,
+            "longitude": -95.7129
+        }
+    },
+    "UY": {
+        "id": "UY",
+        "iso_3": "URY",
+        "prefix": "+598",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -32.5228,
+            "longitude": -55.7658
+        }
+    },
+    "VE": {
+        "id": "VE",
+        "iso_3": "VEN",
+        "prefix": "+58",
+        "continent": "americas",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 6.4238,
+            "longitude": -66.5897
+        }
+    },
+    "// === ASIA ===": "------------------------------------------------",
+    "AF": {
+        "id": "AF",
+        "iso_3": "AFG",
+        "prefix": "+93",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 33.9391,
+            "longitude": 67.71
+        }
+    },
+    "BH": {
+        "id": "BH",
+        "iso_3": "BHR",
+        "prefix": "+973",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 26.0667,
+            "longitude": 50.5577
+        }
+    },
+    "BD": {
+        "id": "BD",
+        "iso_3": "BGD",
+        "prefix": "+880",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 23.685,
+            "longitude": 90.3563
+        }
+    },
+    "BT": {
+        "id": "BT",
+        "iso_3": "BTN",
+        "prefix": "+975",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 27.5142,
+            "longitude": 90.4336
+        }
+    },
+    "BN": {
+        "id": "BN",
+        "iso_3": "BRN",
+        "prefix": "+673",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 4.5353,
+            "longitude": 114.7277
+        }
+    },
+    "KH": {
+        "id": "KH",
+        "iso_3": "KHM",
+        "prefix": "+855",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 12.5657,
+            "longitude": 104.991
+        }
+    },
+    "CN": {
+        "id": "CN",
+        "iso_3": "CHN",
+        "prefix": "+86",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 35.8617,
+            "longitude": 104.1954
+        }
+    },
+    "IN": {
+        "id": "IN",
+        "iso_3": "IND",
+        "prefix": "+91",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 20.5937,
+            "longitude": 78.9629
+        }
+    },
+    "ID": {
+        "id": "ID",
+        "iso_3": "IDN",
+        "prefix": "+62",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -0.7893,
+            "longitude": 113.9213
+        }
+    },
+    "IR": {
+        "id": "IR",
+        "iso_3": "IRN",
+        "prefix": "+98",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 32.4279,
+            "longitude": 53.688
+        }
+    },
+    "IQ": {
+        "id": "IQ",
+        "iso_3": "IRQ",
+        "prefix": "+964",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 33.2232,
+            "longitude": 43.6793
+        }
+    },
+    "IL": {
+        "id": "IL",
+        "iso_3": "ISR",
+        "prefix": "+972",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 31.0461,
+            "longitude": 34.8516
+        }
+    },
+    "JP": {
+        "id": "JP",
+        "iso_3": "JPN",
+        "prefix": "+81",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 36.2048,
+            "longitude": 138.2529
+        }
+    },
+    "JO": {
+        "id": "JO",
+        "iso_3": "JOR",
+        "prefix": "+962",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 30.5852,
+            "longitude": 36.2384
+        }
+    },
+    "KP": {
+        "id": "KP",
+        "iso_3": "PRK",
+        "prefix": "+850",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 40.3399,
+            "longitude": 127.5101
+        }
+    },
+    "KR": {
+        "id": "KR",
+        "iso_3": "KOR",
+        "prefix": "+82",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 35.9078,
+            "longitude": 127.7669
+        }
+    },
+    "KW": {
+        "id": "KW",
+        "iso_3": "KWT",
+        "prefix": "+965",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 29.3117,
+            "longitude": 47.4818
+        }
+    },
+    "KG": {
+        "id": "KG",
+        "iso_3": "KGZ",
+        "prefix": "+996",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 41.2044,
+            "longitude": 74.7661
+        }
+    },
+    "LA": {
+        "id": "LA",
+        "iso_3": "LAO",
+        "prefix": "+856",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 19.8563,
+            "longitude": 102.4955
+        }
+    },
+    "LB": {
+        "id": "LB",
+        "iso_3": "LBN",
+        "prefix": "+961",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 33.8547,
+            "longitude": 35.8623
+        }
+    },
+    "MY": {
+        "id": "MY",
+        "iso_3": "MYS",
+        "prefix": "+60",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 4.2105,
+            "longitude": 101.9758
+        }
+    },
+    "MV": {
+        "id": "MV",
+        "iso_3": "MDV",
+        "prefix": "+960",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 3.2028,
+            "longitude": 73.2207
+        }
+    },
+    "MN": {
+        "id": "MN",
+        "iso_3": "MNG",
+        "prefix": "+976",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 46.8625,
+            "longitude": 103.8467
+        }
+    },
+    "MM": {
+        "id": "MM",
+        "iso_3": "MMR",
+        "prefix": "+95",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 21.9162,
+            "longitude": 95.956
+        }
+    },
+    "NP": {
+        "id": "NP",
+        "iso_3": "NPL",
+        "prefix": "+977",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 28.3949,
+            "longitude": 84.124
+        }
+    },
+    "OM": {
+        "id": "OM",
+        "iso_3": "OMN",
+        "prefix": "+968",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 21.5126,
+            "longitude": 55.9233
+        }
+    },
+    "PK": {
+        "id": "PK",
+        "iso_3": "PAK",
+        "prefix": "+92",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 30.3753,
+            "longitude": 69.3451
+        }
+    },
+    "PH": {
+        "id": "PH",
+        "iso_3": "PHL",
+        "prefix": "+63",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 12.8797,
+            "longitude": 121.774
+        }
+    },
+    "QA": {
+        "id": "QA",
+        "iso_3": "QAT",
+        "prefix": "+974",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 25.3548,
+            "longitude": 51.1839
+        }
+    },
+    "SA": {
+        "id": "SA",
+        "iso_3": "SAU",
+        "prefix": "+966",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 23.8859,
+            "longitude": 45.0792
+        }
+    },
+    "SG": {
+        "id": "SG",
+        "iso_3": "SGP",
+        "prefix": "+65",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 1.3521,
+            "longitude": 103.8198
+        }
+    },
+    "LK": {
+        "id": "LK",
+        "iso_3": "LKA",
+        "prefix": "+94",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 7.8731,
+            "longitude": 80.7718
+        }
+    },
+    "SY": {
+        "id": "SY",
+        "iso_3": "SYR",
+        "prefix": "+963",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 34.8021,
+            "longitude": 38.9968
+        }
+    },
+    "TJ": {
+        "id": "TJ",
+        "iso_3": "TJK",
+        "prefix": "+992",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 38.861,
+            "longitude": 71.2761
+        }
+    },
+    "TH": {
+        "id": "TH",
+        "iso_3": "THA",
+        "prefix": "+66",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 15.8700,
+            "longitude": 100.9925
+        }
+    },
+    "TL": {
+        "id": "TL",
+        "iso_3": "TLS",
+        "prefix": "+670",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -8.8742,
+            "longitude": 125.7275
+        }
+    },
+    "TM": {
+        "id": "TM",
+        "iso_3": "TKM",
+        "prefix": "+993",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 38.9697,
+            "longitude": 59.5563
+        }
+    },
+    "UZ": {
+        "id": "UZ",
+        "iso_3": "UZB",
+        "prefix": "+998",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 41.3775,
+            "longitude": 64.5853
+        }
+    },
+    "VN": {
+        "id": "VN",
+        "iso_3": "VNM",
+        "prefix": "+84",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 14.0583,
+            "longitude": 108.2772
+        }
+    },
+    "YE": {
+        "id": "YE",
+        "iso_3": "YEM",
+        "prefix": "+967",
+        "continent": "asia",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 15.5527,
+            "longitude": 48.5164
+        }
+    },
+    "// === EUROPE ===": "------------------------------------------------",
+    "AL": {
+        "id": "AL",
+        "iso_3": "ALB",
+        "prefix": "+355",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["129"],
+            "medical": ["127"],
+            "firefighters": ["128"]
+        },
+        "geo": {
+            "latitude": 41.1533,
+            "longitude": 20.1683
+        }
+    },
+    "AD": {
+        "id": "AD",
+        "iso_3": "AND",
+        "prefix": "+376",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["110"],
+            "medical": ["116"],
+            "firefighters": ["118"]
+        },
+        "geo": {
+            "latitude": 42.5063,
+            "longitude": 1.5218
+        }
+    },
+    "AM": {
+        "id": "AM",
+        "iso_3": "ARM",
+        "prefix": "+374",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["102"],
+            "medical": ["103"],
+            "firefighters": ["101"]
+        },
+        "geo": {
+            "latitude": 40.0691,
+            "longitude": 45.0382
+        }
+    },
+    "AT": {
+        "id": "AT",
+        "iso_3": "AUT",
+        "prefix": "+43",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["133"],
+            "medical": ["144"],
+            "firefighters": ["122"]
+        },
+        "geo": {
+            "latitude": 47.5162,
+            "longitude": 14.5501
+        }
+    },
+    "AZ": {
+        "id": "AZ",
+        "iso_3": "AZE",
+        "prefix": "+994",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["102"],
+            "medical": ["103"],
+            "firefighters": ["101"]
+        },
+        "geo": {
+            "latitude": 40.1431,
+            "longitude": 47.5769
+        }
+    },
+    "BY": {
+        "id": "BY",
+        "iso_3": "BLR",
+        "prefix": "+375",
+        "continent": "europe",
+        "member_112": false,
+        "emergency": {
+            "police": ["102"],
+            "medical": ["103"],
+            "firefighters": ["101"]
+        },
+        "geo": {
+            "latitude": 53.7098,
+            "longitude": 27.9534
+        }
+    },
+    "BE": {
+        "id": "BE",
+        "iso_3": "BEL",
+        "prefix": "+32",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["101"],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 50.5039,
+            "longitude": 4.4699
+        }
+    },
+    "BA": {
+        "id": "BA",
+        "iso_3": "BIH",
+        "prefix": "+387",
+        "continent": "europe",
+        "member_112": false,
+        "emergency": {
+            "police": ["122"],
+            "medical": ["124"],
+            "firefighters": ["123"]
+        },
+        "geo": {
+            "latitude": 43.9159,
+            "longitude": 17.6791
+        }
+    },
+    "BG": {
+        "id": "BG",
+        "iso_3": "BGR",
+        "prefix": "+359",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["166"],
+            "medical": ["150"],
+            "firefighters": ["160"]
+        },
+        "geo": {
+            "latitude": 42.7339,
+            "longitude": 25.4858
+        }
+    },
+    "HR": {
+        "id": "HR",
+        "iso_3": "HRV",
+        "prefix": "+385",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["192"],
+            "medical": ["194"],
+            "firefighters": ["193"]
+        },
+        "geo": {
+            "latitude": 45.1000,
+            "longitude": 15.2000
+        }
+    },
+    "CY": {
+        "id": "CY",
+        "iso_3": "CYP",
+        "prefix": "+357",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "dispatch": ["199"],
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 35.1264,
+            "longitude": 33.4299
+        }
+    },
+    "CZ": {
+        "id": "CZ",
+        "iso_3": "CZE",
+        "prefix": "+420",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["158"],
+            "medical": ["155"],
+            "firefighters": ["150"]
+        },
+        "geo": {
+            "latitude": 49.8175,
+            "longitude": 15.4730
+        }
+    },
+    "DK": {
+        "id": "DK",
+        "iso_3": "DNK",
+        "prefix": "+45",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 56.2639,
+            "longitude": 9.5018
+        }
+    },
+    "EE": {
+        "id": "EE",
+        "iso_3": "EST",
+        "prefix": "+372",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 58.5953,
+            "longitude": 25.0136
+        }
+    },
+    "FI": {
+        "id": "FI",
+        "iso_3": "FIN",
+        "prefix": "+358",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 61.9241,
+            "longitude": 25.7482
+        }
+    },
+    "FR": {
+        "id": "FR",
+        "iso_3": "FRA",
+        "prefix": "+33",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [
+                "17"
+            ],
+            "medical": [
+                "15"
+            ],
+            "firefighters": [
+                "18"
+            ],
+            "beaten_children": [
+                "119"
+            ],
+            "deaf": [
+                "114"
+            ],
+            "missing_children": [
+                "116000"
+            ]
+        },
+        "geo": {
+            "latitude": 46.2276,
+            "longitude": 2.2137
+        }
+    },
+    "GE": {
+        "id": "GE",
+        "iso_3": "GEO",
+        "prefix": "+995",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 42.3154,
+            "longitude": 43.3569
+        }
+    },
+    "DE": {
+        "id": "DE",
+        "iso_3": "DEU",
+        "prefix": "+49",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["110"],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 51.1657,
+            "longitude": 10.4515
+        }
+    },
+    "GR": {
+        "id": "GR",
+        "iso_3": "GRC",
+        "prefix": "+30",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "dispatch": ["999"],
+            "police": ["199"],
+            "medical": ["190"],
+            "firefighters": ["190"]
+        },
+        "geo": {
+            "latitude": 39.0742,
+            "longitude": 21.8243
+        }
+    },
+    "HU": {
+        "id": "HU",
+        "iso_3": "HUN",
+        "prefix": "+36",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["107"],
+            "medical": ["104"],
+            "firefighters": ["105"]
+        },
+        "geo": {
+            "latitude": 47.1625,
+            "longitude": 19.5033
+        }
+    },
+    "IS": {
+        "id": "IS",
+        "iso_3": "ISL",
+        "prefix": "+354",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 64.9631,
+            "longitude": -19.0208
+        }
+    },
+    "IE": {
+        "id": "IE",
+        "iso_3": "IRL",
+        "prefix": "+353",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "dispatch": ["999"],
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 53.4129,
+            "longitude": -8.2439
+        }
+    },
+    "IT": {
+        "id": "IT",
+        "iso_3": "ITA",
+        "prefix": "+39",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 41.8719,
+            "longitude": 12.5674
+        }
+    },
+    "KZ": {
+        "id": "KZ",
+        "iso_3": "KAZ",
+        "prefix": "+7",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["102"],
+            "medical": ["103"],
+            "firefighters": ["101"]
+        },
+        "geo": {
+            "latitude": 48.0196,
+            "longitude": 66.9237
+        }
+    },
+    "LV": {
+        "id": "LV",
+        "iso_3": "LVA",
+        "prefix": "+371",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["110"],
+            "medical": ["113"],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 56.8796,
+            "longitude": 24.6032
+        }
+    },
+    "LI": {
+        "id": "LI",
+        "iso_3": "LIE",
+        "prefix": "+423",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["117"],
+            "medical": ["144"],
+            "firefighters": ["118"]
+        },
+        "geo": {
+            "latitude": 47.166,
+            "longitude": 9.5554
+        }
+    },
+    "LT": {
+        "id": "LT",
+        "iso_3": "LTU",
+        "prefix": "+370",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["022"],
+            "medical": ["033"],
+            "firefighters": ["011"]
+        },
+        "geo": {
+            "latitude": 55.1694,
+            "longitude": 23.8813
+        }
+    },
+    "LU": {
+        "id": "LU",
+        "iso_3": "LUX",
+        "prefix": "+352",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["113"],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 49.8153,
+            "longitude": 6.1296
+        }
+    },
+    "MT": {
+        "id": "MT",
+        "iso_3": "MLT",
+        "prefix": "+356",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 35.9375,
+            "longitude": 14.3754
+        }
+    },
+    "MD": {
+        "id": "MD",
+        "iso_3": "MDA",
+        "prefix": "+373",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 47.4116,
+            "longitude": 28.3699
+        }
+    },
+    "MC": {
+        "id": "MC",
+        "iso_3": "MCO",
+        "prefix": "+377",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["17"],
+            "medical": ["18"],
+            "firefighters": ["18"]
+        },
+        "geo": {
+            "latitude": 43.7384,
+            "longitude": 7.4246
+        }
+    },
+    "ME": {
+        "id": "ME",
+        "iso_3": "MNE",
+        "prefix": "+382",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["122"],
+            "medical": ["124"],
+            "firefighters": ["123"]
+        },
+        "geo": {
+            "latitude": 42.7087,
+            "longitude": 19.3744
+        }
+    },
+    "NL": {
+        "id": "NL",
+        "iso_3": "NLD",
+        "prefix": "+31",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 52.1326,
+            "longitude": 5.2913
+        }
+    },
+    "MK": {
+        "id": "MK",
+        "iso_3": "MKD",
+        "prefix": "+389",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["192"],
+            "medical": ["194"],
+            "firefighters": ["193"]
+        },
+        "geo": {
+            "latitude": 41.6086,
+            "longitude": 21.7453
+        }
+    },
+    "NO": {
+        "id": "NO",
+        "iso_3": "NOR",
+        "prefix": "+47",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["112"],
+            "medical": ["113"],
+            "firefighters": ["110"]
+        },
+        "geo": {
+            "latitude": 60.472,
+            "longitude": 8.4689
+        }
+    },
+    "PL": {
+        "id": "PL",
+        "iso_3": "POL",
+        "prefix": "+48",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["997"],
+            "medical": ["999"],
+            "firefighters": ["998"]
+        },
+        "geo": {
+            "latitude": 51.9194,
+            "longitude": 19.1451
+        }
+    },
+    "PT": {
+        "id": "PT",
+        "iso_3": "PRT",
+        "prefix": "+351",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 39.3999,
+            "longitude": -8.2245
+        }
+    },
+    "RO": {
+        "id": "RO",
+        "iso_3": "ROU",
+        "prefix": "+40",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 45.9432,
+            "longitude": 24.9668
+        }
+    },
+    "RU": {
+        "id": "RU",
+        "iso_3": "RUS",
+        "prefix": "+7",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["102"],
+            "medical": ["103"],
+            "firefighters": ["101"]
+        },
+        "geo": {
+            "latitude": 61.524,
+            "longitude": 105.3188
+        }
+    },
+    "SM": {
+        "id": "SM",
+        "iso_3": "SMR",
+        "prefix": "+378",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["113"],
+            "medical": ["118"],
+            "firefighters": ["115"]
+        },
+        "geo": {
+            "latitude": 43.9424,
+            "longitude": 12.4578
+        }
+    },
+    "RS": {
+        "id": "RS",
+        "iso_3": "SRB",
+        "prefix": "+381",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["192"],
+            "medical": ["194"],
+            "firefighters": ["193"]
+        },
+        "geo": {
+            "latitude": 44.0165,
+            "longitude": 21.0059
+        }
+    },
+    "SK": {
+        "id": "SK",
+        "iso_3": "SVK",
+        "prefix": "+421",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["158"],
+            "medical": ["155"],
+            "firefighters": ["150"]
+        },
+        "geo": {
+            "latitude": 48.669,
+            "longitude": 19.699
+        }
+    },
+    "SI": {
+        "id": "SI",
+        "iso_3": "SVN",
+        "prefix": "+386",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["113"],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 46.1512,
+            "longitude": 14.9955
+        }
+    },
+    "ES": {
+        "id": "ES",
+        "iso_3": "ESP",
+        "prefix": "+34",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 40.4637,
+            "longitude": -3.7492
+        }
+    },
+    "SE": {
+        "id": "SE",
+        "iso_3": "SWE",
+        "prefix": "+46",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 60.1282,
+            "longitude": 18.6435
+        }
+    },
+    "CH": {
+        "id": "CH",
+        "iso_3": "CHE",
+        "prefix": "+41",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["117"],
+            "medical": ["144"],
+            "firefighters": ["118"]
+        },
+        "geo": {
+            "latitude": 46.8182,
+            "longitude": 8.2275
+        }
+    },
+    "TR": {
+        "id": "TR",
+        "iso_3": "TUR",
+        "prefix": "+90",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["155"],
+            "medical": [],
+            "firefighters": ["110"]
+        },
+        "geo": {
+            "latitude": 38.9637,
+            "longitude": 35.2433
+        }
+    },
+    "UA": {
+        "id": "UA",
+        "iso_3": "UKR",
+        "prefix": "+380",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["102"],
+            "medical": ["103"],
+            "firefighters": ["101"]
+        },
+        "geo": {
+            "latitude": 48.3794,
+            "longitude": 31.1656
+        }
+    },
+    "GB": {
+        "id": "GB",
+        "iso_3": "GBR",
+        "prefix": "+44",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "dispatch": ["999"],
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 55.3781,
+            "longitude": -3.436
+        }
+    },
+    "VA": {
+        "id": "VA",
+        "iso_3": "VAT",
+        "prefix": "+39",
+        "continent": "europe",
+        "member_112": true,
+        "emergency": {
+            "police": ["113"],
+            "medical": ["118"],
+            "firefighters": ["115"]
+        },
+        "geo": {
+            "latitude": 41.9029,
+            "longitude": 12.4534
+        }
+    },
+    "// === OCEANIA ===": "------------------------------------------------",
+    "AU": {
+        "id": "AU",
+        "iso_3": "AUS",
+        "prefix": "+61",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "dispatch": [],
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -25.2744,
+            "longitude": 133.7751
+        }
+    },
+    "FJ": {
+        "id": "FJ",
+        "iso_3": "FJI",
+        "prefix": "+679",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -16.5786,
+            "longitude": 179.414
+        }
+    },
+    "KI": {
+        "id": "KI",
+        "iso_3": "KIR",
+        "prefix": "+686",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -3.3704,
+            "longitude": -168.734
+        }
+    },
+    "MH": {
+        "id": "MH",
+        "iso_3": "MHL",
+        "prefix": "+692",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 7.1315,
+            "longitude": 171.1845
+        }
+    },
+    "FM": {
+        "id": "FM",
+        "iso_3": "FSM",
+        "prefix": "+691",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 7.4256,
+            "longitude": 150.5508
+        }
+    },
+    "NR": {
+        "id": "NR",
+        "iso_3": "NRU",
+        "prefix": "+674",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -0.5228,
+            "longitude": 166.9315
+        }
+    },
+    "NZ": {
+        "id": "NZ",
+        "iso_3": "NZL",
+        "prefix": "+64",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "dispatch": [],
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -40.9006,
+            "longitude": 174.886
+        }
+    },
+    "PW": {
+        "id": "PW",
+        "iso_3": "PLW",
+        "prefix": "+680",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": 7.515,
+            "longitude": 134.5825
+        }
+    },
+    "PG": {
+        "id": "PG",
+        "iso_3": "PNG",
+        "prefix": "+675",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -6.315,
+            "longitude": 143.9555
+        }
+    },
+    "WS": {
+        "id": "WS",
+        "iso_3": "WSM",
+        "prefix": "+685",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -13.759,
+            "longitude": -172.1046
+        }
+    },
+    "SB": {
+        "id": "SB",
+        "iso_3": "SLB",
+        "prefix": "+677",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -8.003,
+            "longitude": 159.6144
+        }
+    },
+    "TO": {
+        "id": "TO",
+        "iso_3": "TON",
+        "prefix": "+676",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -21.1789,
+            "longitude": -175.1982
+        }
+    },
+    "TV": {
+        "id": "TV",
+        "iso_3": "TUV",
+        "prefix": "+688",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -7.1095,
+            "longitude": 177.6493
+        }
+    },
+    "VU": {
+        "id": "VU",
+        "iso_3": "VUT",
+        "prefix": "+678",
+        "continent": "oceania",
+        "member_112": false,
+        "emergency": {
+            "police": [],
+            "medical": [],
+            "firefighters": []
+        },
+        "geo": {
+            "latitude": -15.3767,
+            "longitude": 166.9592
+        }
+    }
+}
