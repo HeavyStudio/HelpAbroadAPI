@@ -3,6 +3,7 @@
 [![JSON Validation](https://github.com/HeavyStudio/HelpAbroadAPI/actions/workflows/json-validator.yml/badge.svg)](https://github.com/HeavyStudio/HelpAbroadAPI/actions)
 [![API Version](https://img.shields.io/badge/API-v1-blue.svg)](./v1/)
 [![Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-181717.svg)](https://heavystudio.github.io/HelpAbroadAPI/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository serves as the single source of truth (SSOT) for the **HelpAbroad** application ecosystem. It contains curated, high-availability, offline-first datasets encompassing international emergency dispatch numbers and UI localization packages.
 
@@ -93,11 +94,11 @@ data class Country(
 data class Emergency(
     val police: List<String>,
     val medical: List<String>,
-    val firefighters: List<String,
+    val firefighters: List<String>,
 )
 
 @Serializable
-data classGeo(
+data class Geo(
     val latitude: Double,
     val longitude: Double
 )
@@ -119,7 +120,7 @@ private const val BASE = "https://heavystudio.github.io/HelpAbroadAPI/v1"
 class HelpAbroadClient {
     private val http = HttpClient {
         install(ContentNegotiation) {
-            json(Json {ignoreUnknownKeys = true })
+            json(Json { ignoreUnknownKeys = true })
         }
     }
 
@@ -237,4 +238,12 @@ PRs are welcome — especially to fill in missing emergency numbers. All JSON fi
 
 ## License
 
-TBD.
+This dataset and its accompanying tooling are released under the [Creative Commons Attribution 4.0 International License](LICENSE) (**CC-BY-4.0**).
+
+You are free to share and adapt the material for any purpose — including commercial use — as long as you give appropriate credit.
+
+**Suggested attribution:**
+
+> Emergency dispatch data sourced from [HelpAbroadAPI](https://github.com/HeavyStudio/HelpAbroadAPI), © HeavyStudio, licensed under CC-BY-4.0.
+
+The license covers both the curated dataset (`v1/**/*.json`) and the glue code in this repository (`scripts/`, `.github/workflows/`). The underlying *facts* (e.g., the number "112" being a European emergency line) are not themselves copyrightable; the license applies to the selection, structuring, and presentation of those facts as a coherent dataset.
