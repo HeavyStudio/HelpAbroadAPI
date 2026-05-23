@@ -15,7 +15,7 @@ while IFS= read -r -d '' file; do
 
   sha="$(sha256sum "$file" | cut -d' ' -f1)"
 
-  updated_at="$(git log -1 --format=%cI -- "$file" 2>/dev/null || true)"
+  updated_at="$(TZ=UTC git log -1 --date=iso-strict-local --format=%cd -- "$file" 2>/dev/null || true)"
   [[ -z "$updated_at" ]] && updated_at="$GENERATED_AT"
 
   resources="$(jq \
